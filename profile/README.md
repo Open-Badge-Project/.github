@@ -2,15 +2,13 @@
 
 ![](<../images/badge.gif>)
 
-This is the Open Badge Project. The idea behind this is to have a very low cost, low power electronic badge. These could be built just for fun, or if you're throwing a conference, feel free to use the PCB as the badge, maybe build some, maybe let the folks at the conference build them.
+This is the Open Badge Project. The idea behind this is to have a very low cost, low power electronic badge. These could be built just for fun, or if you're throwing a conference, feel free to use the PCB as the badge, maybe build some, maybe let the folks at the conference build them. Let one of the PCB build shops build them.
 
 Electronic badges have gotten pretty hip, but they seem to suffer from two primary problems.
 1) They are very expensive
 1) They need a lot of batteries
 
-The goal of the Open Badge Project was to build a badge that costs $5 or less and can run for a day or more on one 2032 battery.
-
-The badge as it stands right now will only cost $5 if you build A LOT (1000 or more). The cost is closer to $6 or $7 for smaller batches at the moment, but that's still pretty reasonable.
+The goal of the Open Badge Project was to build a badge that costs $5 or less and can run for a day or more on one 2032 battery. The price is only $5 if you build a lot, but it's a very reachable price.
 
 ### Types
 There are two versions of the badge. One is a through hole badge that's very easy to solder. It was designed with human fabricators in mind. The kicad files in the main branch are for the through hole model.
